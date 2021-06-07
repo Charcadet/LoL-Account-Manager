@@ -2,6 +2,9 @@
 
 ![This is the README's header image :)](https://i.imgur.com/RXx32Yh.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G04W0H7)
+
+
 LoL Account Manager v2.0.2 is an account storing utility program for people who play on multiple League of Legends accounts with different ranks. The main purpose of this program is to eliminate the need to login to all your accounts one by one until you find one that is in the ranked bracket you are looking to play in. With one glance of an eye you can see all your account ranks and copy the login to your clipboard to get ready to play immediately. 
 
 LoL Account Manager is licensed under the Mozilla Public License 2.0 (MPL2).
